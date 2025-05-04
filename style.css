@@ -43,3 +43,21 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #eaeaea;
+  margin-top: 2em;
+  font-size: 0.9em;
+}
+
+footer a {
+  color: #003366;
+  text-decoration: none;
+  margin: 0 10px;
+}
+footer a:hover {
+  text-decoration: underline;
+}
